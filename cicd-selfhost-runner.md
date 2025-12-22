@@ -596,7 +596,7 @@ curl http://localhost:3001/health
 }
 ```
 
-### ส่วนที่ 4: สร้าง GitHub Actions Workflow (20 นาที)
+### ส่วนที่ 4: สร้าง GitHub Actions Workflow
 
 #### 4.1 สร้าง Workflow File ที่ .github/workflows/deploy.yml
 
